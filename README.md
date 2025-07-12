@@ -18,20 +18,20 @@ A simple Python project that calculates the *molecular/atomic mass* of a given c
 	•	The input string is parsed to extract each element and its quantity
 	•	Uses Python logic to multiply weights and sum them accurately
 
-⸻
+---
 
 🛠 Technologies Used
 	•	Python 3.x
 	•	Built-in modules (no external dependencies)
 
-⸻
+---
 
 📚 Future Improvements 
 	•	GUI with Tkinter or web UI with Flask
 	•	Handle isotopes or custom element databases
 	•	Input validation and error handling for unknown elements
 
-⸻
+---
 
 👨‍💻 Author
 
@@ -39,7 +39,7 @@ Dhimant Bhardwaj
 📧 Email: dhimantbhardwaj@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/dhimant-bhardwaj-1685032a0
 
-⸻
+---
 
 📄 License
 
